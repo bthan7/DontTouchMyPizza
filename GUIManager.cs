@@ -264,12 +264,6 @@ public class GUIManager : MonoBehaviour {
 
 	}
 
-	public void DgrButtonClick(){
-	
-		m_AudioManagerRef.PlayButtonTap ();
-		Application.OpenURL("https://www.dgrgames.com");
-
-	}
 
 
 
