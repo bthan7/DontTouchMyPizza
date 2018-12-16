@@ -239,28 +239,28 @@ public class GUIManager : MonoBehaviour {
 	public void FacebookButtonClick(){
 	
 		m_AudioManagerRef.PlayButtonTap ();
-		Application.OpenURL("https://www.facebook.com/dgrgames");
+		Application.OpenURL("https://www.facebook.com");
 
 	}
 
 	public void TwitterButtonClick(){
 	
 		m_AudioManagerRef.PlayButtonTap ();
-		Application.OpenURL("https://twitter.com/DgrGamess");
+		Application.OpenURL("https://twitter.com");
 
 	}
 
 	public void InstagramButtonClick(){
 	
 		m_AudioManagerRef.PlayButtonTap ();
-		Application.OpenURL("https://www.instagram.com/dgrgames");
+		Application.OpenURL("https://www.instagram.com");
 
 	}
 
 	public void YoutubeButtonClick(){
 	
 		m_AudioManagerRef.PlayButtonTap ();
-		Application.OpenURL("https://www.youtube.com/channel/UCOrTnFi8LSV113HHBDRD15g");
+		Application.OpenURL("https://www.youtube.com");
 
 	}
 
